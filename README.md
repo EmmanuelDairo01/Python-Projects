@@ -3,3 +3,17 @@ This repository contains projects i have built using python and it's principles 
 
 The files present in this repositiry are:
 
+a.) PasswordGeneartor code.
+
+b.) Wizard dungoeon game
+
+c.) Concessionstand game
+
+d.) dice generation game
+
+e.) weight calculator game
+
+f.) user validation code 
+
+
+
